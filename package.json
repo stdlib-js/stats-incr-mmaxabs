@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-mmaxabs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Compute a moving maximum absolute value incrementally.",
   "license": "Apache-2.0",
   "author": {
